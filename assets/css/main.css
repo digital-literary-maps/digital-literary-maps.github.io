@@ -6,6 +6,10 @@ layout: null
 
 /* --- General --- */
 
+.dropdown-item {
+  color: #FFFFFF;
+}
+
 html {
   font-size: 100%
 }
