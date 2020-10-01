@@ -153,41 +153,41 @@ We currently use eight main resources for the literature, specifically poems, to
 
 ## ウェブアプリケーションについて<a name="general-ja"></a>
 
-When entering the application, you will be greeted by this view:
+アプリケーションをアクセスしますと、次の画面が表示されます：
 
 ![Front-ja](../assets/img/front_ja.png)
 
-By clicking on "Explore" you will be led to the main spots view. You will also be able to choose the UI language between English and Japanese. Furthermore, below you will find general information on the project as well as a small map showing all the places in the database.
+このページでは、UIの言語を切替えることができます（選択肢は日本語と英語）。プロジェクトに関する情報などはもフロントページにあります。尚、「閲覧する」をクリックしますと、DLMのメイン地図が表示されます。
 
-Entering the app gives you the full map view with all the literary spots currently in store:
+この地図は、DLM内の全場所を同時に地図上で表示します：
 
 ![All-spots-ja](../assets/img/all_spots_ja.png)
 
-You can click on any one spot to reveal some additional information in an overlay:
+各場所をクリックできますが、一つの場所を選びますと、追加情報が以下の通りに、オーバーレイで表示されます：
 
 ![Overlay-ja](../assets/img/spot_overlay_ja.png)
 
-From the overlay, you can also access the detailed spot page (see [next section](#displaying-spots-en)). Furthermore, there are four interaction buttons on the top left of the map view:
+このオーバーレイから、場所の詳細ページを開くことができます（項目[「場所を表示する」](#displaying-spots-ja)）。更に、地図上の左上に四つのボタンがあります：
 
 ![Buttons](../assets/img/all_spots_buttons.png)
 
-They allow you to zoom in or out of the map (although you can do this with your mouse or trackpad as well), make the map fullscreen, or switch to a tabular view of the spots. When clicking the last button, all spots are shown in a table as follows:
+このボタンで、地図のズーム（マウス、又はトラックパッドでも可能）、地図のフルサイズ化、又は場所のテーブル表示をできます。最後のボタンにクリックしますと、場所は以下のようにテーブルで表示されます：
 
 ![All-spots-table-ja](../assets/img/all_spots_table_ja.png)
 
-In the table view, you can access the detailed spot page and also filter spots by their name by using the search bar. You can switch back to the map view by clicking the button on the top left of the table view:
+テーブル表示からも、場所の詳細ページを開くことができますし、地名で場所を検索することもできます。地図表示に戻るには、左上の「地図表示」ボタンをクリックするので充分です：
 
 ![Map-switch-ja](../assets/img/map_switch_ja.png)
 
-Lastly, if you are a user who has access to the database, you can log in after entering the main app. The header section includes a menu symbol that when clicked reveals the following links:
+最後に、データベースアクセスのお持ちの方は、フロントページ以外のページからログインすることができます。ページのヘッダーの部分にメニューシンボルがありますので、それをクリックしますと、次のリンクが表示されます：
 
 ![Menu-ja](../assets/img/menu_ja.png)
 
-From there, you can reach the login page. Note that you can also at any point in time switch languages via the menu.
+メニューからログインページをアクセスできます。更に、いつでもメニューを通してUI言語を切替えることができます。
 
-### Note
+### 注意
 
-In the foreseeable future, the front page will be expanded to include an explanation as to how spot and poem data is assembled.
+近々、フロントページには作業凡例が追加されます。
 
 ## 場所を表示する<a name="displaying-spots-ja"></a>
 
