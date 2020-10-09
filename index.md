@@ -18,7 +18,7 @@ The user guide is accessible at all times from the application. In the header, t
 
 Clicking on this symbol will either open up a specific page of the user guide (depending on where you are) or the front page (this page).
 
-Heidelberg, September 2020<br>
+Heidelberg, Germany, October 2020<br>
 Leo Born 
 
 ---
@@ -35,7 +35,7 @@ Leo Born
 
 マークをクリックすると、本凡例の特定なページ（ウェブアプリケーション内のURLによります）、又は本フロントページが表示されます。
 
-ハイデルベルク、ドイツ、令和二年九月<br>
+ハイデルベルク、ドイツ、令和二年十月<br>
 ボルン礼於
 
 ---

@@ -191,79 +191,79 @@ We currently use eight main resources for the literature, specifically poems, to
 
 ## 場所を表示する<a name="displaying-spots-ja"></a>
 
-Once you access a spot's detail page (either via the map overlay or the spots table), you will see the first of four tabs:
+場所の詳細ページを開きますと、４つのタブの内の、次の「基本情報」というタブが表示されます：
 
 ![Spot-detail-ja](../assets/img/spot_detail/spot_detail_ja.png)
 
-The "Basic information" tab shows a miniature map with the selected place and information on its name (in Kanji, Furigana, and Romaji), historic Kuni 国, current prefecture 県, as well as its latitude and longitude. Furthermore, the tab provides information on whether the place is an utamakura 歌枕 or not, and whether it is a meisho 名所 or not.
+「基本情報」タブには、選択した場所を表示する小型地図と、場所の地名（漢字、ふりがな、ローマ字）、国、都道府県、そして経緯度が記載されています。更に、その場所は歌枕であるか、又は名所であるか、との情報も含められています。
 
-If the place is an utamakura, there will furthermore be information on its meaning, features, and associations. Lastly, there is a field called "Keywords":
+歌枕であれば、歌枕としての意味と特徴、更に歌枕として何を呼び起こしているか（連想）、についての情報も表示されます。最後に、「キーワード」という項目があります：
 
 ![Spot-detail-keywords-ja](../assets/img/spot_detail/spot_detail_keywords_ja.png)
 
-As we will shortly see, each literary reference to the spot (e.g. in a poem) invokes the spot with a different form; i.e. in one case the spot can simply be referenced by its name, in another by a creek in that spot, and in yet another by a bridge in that spot. The "Keywords" field in the "Basic information" tab simply serves to summarize all possible variants of this spot as it has been used in literature.
+「キーワード」とは、各和歌等で、その場所を表す言葉を示しています。例えば、ある和歌では、場所は単に地名で表されるかもしれませんが、別の和歌では、その場所に属する浦・橋等で表現されることがあります。「基本情報」の「キーワード」項目は、この場合多数の表現をまとめて表示するためです。
 
-The next tab concerns a spot's topography and history as these are important determinants for its literary and cultural significance:
+次のタブは、場所の地誌と歴史についての情報をまとめてます：
 
 ![Spot-detail-history-ja](../assets/img/spot_detail/spot_detail_history_ja.png)
 
-Note that in the future, the fields "topography" and "history" will be split into an English and a Japanese version of each, so that it becomes easier to distinguish information in each language.
+近々、「地誌」と「歴史」項目は、日本語版と英語版に区別されますので、ご注意下さい。
 
-The third tab, "Poetry", shows all poems from a selection of poetry collections (see [Resources](#resources-en)) that make reference to the particular spot:
+三つ目の「和歌・漢詩・俳諧」タブは、[資料](#resources-ja)で現れる、選択した場所を表現する和歌等をテーブルで表示します：
 
 ![Spot-detail-poems-ja](../assets/img/spot_detail/spot_detail_poems_ja.png)
 
-All associated poems are shown in a table, and clicking on one reveals more detailed information on it:
+各エントリーをクリックしますと、そのエントリーの詳細情報が現れます：
 
 ![Spot-detail-one-poem-ja](../assets/img/spot_detail/spot_detail_one_poem_ja.png)
 
-This window shows from which resource the poem comes from (e.g. 新古今和歌集), the identifier within that resource (e.g. 新古今 883), the volume of the resource, its preface (kotobagaki 詞書), its actual text, the form used to reference the spot ("Keyword", see above), the author, and a link to a scanned resource from the National Institute for Japanese Literature (NIJL).
+このウィンドウでは、次の情報が記載されてます。資料（例えば、新古今和歌集）、ID（国歌大観番号、例えば、新古今 883）、資料の巻・部立、詞書、テクスト自体、キーワード、著者、そして国文学研究資料館（NIJL）がデジタル化した資料へのリンク。
 
-Lastly, next to the original text itself you will find a button to display a Romaji transliteration of the text:
+最後に、テクストの隣のボタンで、ローマ字版を表示することができます:
 
 ![Spot-detail-one-poem-romaji-ja](../assets/img/spot_detail/spot_detail_one_poem_romaji_ja.png)
 
-### Note
+### 注意
 
-In the foreseeable future, we will add a IIIF viewer to the poem windows in order to show a preview of the document linked to the NIJL database.
+近々、IIIFビューアーを導入し、NIJLの資料を以上のウィンドウで表示する予定です。
 
 ## 場所を追加する<a name="adding-a-spot-ja"></a>
 
-Relevant to project members is the ability to add new spots to the database. Once you are logged in, you can add spots in two ways. The first is to click on the new "+" button in the map view of the spots:
+プロジェクト関連者にとっては、場所を追加・編集する機能が必要です。ログイン後、場所を二つの方法で追加できます。一つ目は、場所の地図表示で、ログイン後に新しく追加された「＋」ボタンをクリックすることです：
 
 ![Add-spot-map](../assets/img/add_spot/add_spot_map.png)
 
-The other is to click the "Add spot" button on the top right of the table view:
+もう一つの方法は、テーブル表示で、右上の「文学名所を追加」のボタンをクリックすることです：
 
 ![Add-spot-table-ja](../assets/img/add_spot/add_spot_table_ja.png)
 
-Clicking on either one of the buttons gives you the view to add a new spot:
+クリック後、場所の追加画面が表示されます:
 
 ![Add-spot-ja](../assets/img/add_spot/add_spot_ja.png)
 
-The view itself is structured the same way as the view for [displaying a spot](#displaying-spots-en). However, the miniature map view now shows all spots on the map as well. This is so as to have a reference to previous spots when adding a new one.
+この画面は、[場所を表示する](#displaying-spots-ja)画面と同じ構造です。しかし、新しい場所を追加する時に、他の場所との関係性を表すためには、小型地図には全場所が表示されてます。
 
-Since most information is the same as we have already seen (history, spots etc.), we will only focus our attention here on how to select a new spot itself.
+殆どの情報は場所を表示する時と同じですので、ここでは新しい場所自体を選択することを中心にしたいと思います。
 
 ### 地図上で場所を選択する<a name="spot-selection-ja"></a>
 
-There are two ways you can select a new spot. The first is to simply double-click on the map. The app then adds a red marker to the map and gathers its latitude and longitude. In addition, depending on your zoom level, the app also tries to find the nearest place automatically and fill out its name:
+場所は、二つの方法で選択できます。一つ目は、単純に地図にダブルクリックすることです。そうしますと、赤いマーカーが追加され、地名と経緯度もアプリケーションから自動的に推定されます：
 
 ![Add-spot-double-click-ja](../assets/img/add_spot/add_spot_double_click_ja.png)
 
-The second way is using the search button on the top left of the miniature map. Note that once a spot is selected, the search button disappears. You first have to click on the marker to remove it and thus make the search button reappear. Then, clicking on search opens a small search window where you can type in the spot to be added:
+もう一つの方法は、小型地図の左上の検索ボタンを使うことです。赤いマーカーが表されている時は、検索ボタンは隠されますが、マーカーをクリックすることで、マーカーを削除し、検索ボタンを戻すことができます。検索ボタンをクリックしますと、小型の検索ウィンドウが現れます：
 
 ![Add-spot-search-ja](../assets/img/add_spot/add_spot_search_ja.png)
 
-The app will show you some suggestions and clicking on one automatically adds a marker and fills in some basic information:
+アプリケーションの提案のどれかを選びますと、自動的にマーカーと地名と経緯度が追加されます：
 
 ![Add-spot-select-ja](../assets/img/add_spot/add_spot_select_ja.png)
 
-In both cases, if you are not satisfied with the placement of the marker or the associated place name, you can manually move the marker around on the map (automatically updating latitude and longitude) and manually edit the spot name information. 
+両方の場合、マーカーの位置や自動的に追加された地名に不満があれば、手動でマーカーを動かしたり、地名を編集できます。
 
 ## 資料<a name="resources-ja"></a>
 
-We currently use eight main resources for the literature, specifically poems, to select for the spots. The eight resources are:
+現時点では、DLMの作成に以下の八つの資料を利用してます：
 
   * 古今和歌集
   * 後撰和歌集
