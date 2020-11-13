@@ -157,7 +157,7 @@ We currently use eight main resources for the literature, specifically poems, to
 
 ![Front-ja](../assets/img/front_ja.png)
 
-このページでは、UIの言語を切替えることができます（選択肢は日本語と英語）。プロジェクトに関する情報などはもフロントページにあります。尚、「閲覧する」をクリックしますと、DLMのメイン地図が表示されます。
+このページでは、UIの言語を切替えることができます（選択肢は日本語と英語）。プロジェクトに関する情報などもフロントページにあります。尚、「閲覧する」をクリックしますと、DLMのメイン地図が表示されます。
 
 この地図は、DLM内の全場所を同時に地図上で表示します：
 
@@ -167,11 +167,11 @@ We currently use eight main resources for the literature, specifically poems, to
 
 ![Overlay-ja](../assets/img/spot_overlay_ja.png)
 
-このオーバーレイから、場所の詳細ページを開くことができます（項目[「場所を表示する」](#displaying-spots-ja)）。更に、地図上の左上に四つのボタンがあります：
+このオーバーレイからは、場所の詳細ページを開くことができます（項目[「場所を表示する」](#displaying-spots-ja)）。更に、地図上の左上に四つのボタンがあります：
 
 ![Buttons](../assets/img/all_spots_buttons.png)
 
-このボタンで、地図のズーム（マウス、又はトラックパッドでも可能）、地図のフルサイズ化、又は場所のテーブル表示をできます。最後のボタンにクリックしますと、場所は以下のようにテーブルで表示されます：
+このボタンで、地図のズーム（マウス、又はトラックパッドでも可能）、地図のフルサイズ化、又は場所のテーブル表示を選択できます。最後のボタンをクリックしますと、場所は以下のようにテーブルで表示されます：
 
 ![All-spots-table-ja](../assets/img/all_spots_table_ja.png)
 
