@@ -38,4 +38,4 @@ Leo Born
 
 ---
 
-<b id="f1">1.</b> _open_ means that this user guide is hosted on [GitHub](https://github.com/japan-biographical-db/japan-biographical-db.github.io) and that, thus, the page development (revisions, corrections, additions etc.) can be transparently tracked. <br>「オープン」とは、本凡例が[GitHub](https://github.com/japan-biographical-db/japan-biographical-db.github.io)でホストされてるため、ページのコードがオープンソースということです。 [↩](#a1)
+<b id="f1">1.</b> _open_ means that this user guide is hosted on [GitHub](https://github.com/digital-literary-maps/digital-literary-maps.github.io) and that, thus, the page development (revisions, corrections, additions etc.) can be transparently tracked. <br>「オープン」とは、本凡例が[GitHub](https://github.com/digital-literary-maps/digital-literary-maps.github.io)でホストされてるため、ページのコードがオープンソースということです。 [↩](#a1)
