@@ -20,7 +20,7 @@ Clicking on this symbol will either open up a specific page of the user guide (d
 
 From the front page, accessing the actual user guide amounts to clicking on "USER GUIDE" on the top right of the header.
 
-Heidelberg, Germany, October 2020<br>
+Heidelberg, Germany, November 2020<br>
 Leo Born 
 
 ---
@@ -37,7 +37,7 @@ Leo Born
 
 フロントページからは、右上の「USER GUIDE」にて凡例自体をアクセスできます。
 
-ハイデルベルク、ドイツ、令和二年十月<br>
+ハイデルベルク、ドイツ、令和二年十一月<br>
 ボルン礼於
 
 ---
