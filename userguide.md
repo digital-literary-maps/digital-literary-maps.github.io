@@ -28,9 +28,15 @@ When entering the application, you will be greeted by this view:
 
 ![Front-en](../assets/img/front_en.png)
 
-By clicking on "Explore" you will be led to the main spots view. You will also be able to choose the UI language between English and Japanese. Furthermore, below you will find general information on the project as well as a small map showing all the places in the database.
+You will also be able to choose the UI language between English and Japanese. Furthermore, below you will find general information on the project as well as a small map showing all the places in the database.
 
-Entering the app gives you the full map view with all the literary spots currently in store:
+Importantly, the front page includes explanatory notes:
+
+![Explanatory-notes-en](../assets/img/explanatory_notes_en.png)
+
+These explanatory notes serve to summarize the process of gathering and inputting data for the spots and literary references. They are divided by category, so that you can access these notes from the spot display view (see [next section](#displaying-spots-en)) per category as well.
+
+By clicking on "Explore" you will be led to the main spots view. Entering the app gives you the full map view with all the literary spots currently in store:
 
 ![All-spots-en](../assets/img/all_spots_en.png)
 
@@ -55,10 +61,6 @@ Lastly, if you are a user who has access to the database, you can log in after e
 ![Menu-en](../assets/img/menu_en.png)
 
 From there, you can reach the login page. Note that you can also at any point in time switch languages via the menu.
-
-### Note
-
-In the foreseeable future, the front page will be expanded to include an explanation as to how spot and poem data is assembled.
 
 ## Displaying spots<a name="displaying-spots-en"></a>
 
@@ -157,7 +159,13 @@ We currently use eight main resources for the literature, specifically poems, to
 
 ![Front-ja](../assets/img/front_ja.png)
 
-このページでは、UIの言語を切替えることができます（選択肢は日本語と英語）。プロジェクトに関する情報などもフロントページにあります。尚、「閲覧する」をクリックしますと、DLMのメイン地図が表示されます。
+このページでは、UIの言語を切替えることができます（選択肢は日本語と英語）。プロジェクトに関する情報などもフロントページにあります。何よりも先ず、プロジェクトの作業凡例がフロントページに記載されてます：
+
+![Explanatory-notes-ja](../assets/img/explanatory_notes_ja.png)
+
+この作業凡例にて、場所・和歌等のデータの収集・記入についての情報がまとめられております。カテゴリーに分類されてますため、場所を表示する画面でも（項目[「場所を表示する」](#displaying-spots-ja)）、カテゴリーごとに凡例を閲覧することができます。
+
+尚、フロントページの「閲覧する」をクリックしますと、DLMのメイン地図が表示されます。
 
 この地図は、DLM内の全場所を同時に地図上で表示します：
 
@@ -184,10 +192,6 @@ We currently use eight main resources for the literature, specifically poems, to
 ![Menu-ja](../assets/img/menu_ja.png)
 
 メニューからログインページをアクセスできます。更に、いつでもメニューを通してUI言語を切替えることができます。
-
-### 注意
-
-近々、フロントページには作業凡例が追加されます。
 
 ## 場所を表示する<a name="displaying-spots-ja"></a>
 
