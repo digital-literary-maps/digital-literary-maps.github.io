@@ -80,8 +80,6 @@ The next tab concerns a spot's topography and history as these are important det
 
 ![Spot-detail-history-en](../assets/img/spot_detail/spot_detail_history_en.png)
 
-Note that in the future, the fields "topography" and "history" will be split into an English and a Japanese version of each, so that it becomes easier to distinguish information in each language.
-
 The third tab, "Poetry", shows all poems from a selection of poetry collections (see [Resources](#resources-en)) that make reference to the particular spot:
 
 ![Spot-detail-poems-en](../assets/img/spot_detail/spot_detail_poems_en.png)
@@ -159,15 +157,13 @@ We currently use eight main resources for the literature, specifically poems, to
 
 ![Front-ja](../assets/img/front_ja.png)
 
-このページでは、UIの言語を切替えることができます（選択肢は日本語と英語）。プロジェクトに関する情報などもフロントページにあります。何よりも先ず、プロジェクトの作業凡例がフロントページに記載されてます：
+このページでは、UIの言語を切替えることができます（選択肢は日本語と英語です）。プロジェクトに関する情報などもフロントページにあります。何よりも先ず、プロジェクトの作業凡例がフロントページに記載されてます：
 
 ![Explanatory-notes-ja](../assets/img/explanatory_notes_ja.png)
 
-この作業凡例にて、場所・和歌等のデータの収集・記入についての情報がまとめられております。カテゴリーに分類されてますため、場所を表示する画面でも（項目[「場所を表示する」](#displaying-spots-ja)）、カテゴリーごとに凡例を閲覧することができます。
+この作業凡例にて、場所・和歌等のデータの収集・記入についての情報がまとめられてます。カテゴリーに分類されてるため、場所を表示する画面でも（項目[「場所を表示する」](#displaying-spots-ja)）、カテゴリーごとに凡例を閲覧することができます。
 
-尚、フロントページの「閲覧する」をクリックしますと、DLMのメイン地図が表示されます。
-
-この地図は、DLM内の全場所を同時に地図上で表示します：
+尚、フロントページの「閲覧する」をクリックしますと、DLMのメイン地図が表示されます。この地図は、DLM内の全場所を同時に地図上で表示します：
 
 ![All-spots-ja](../assets/img/all_spots_ja.png)
 
@@ -187,11 +183,11 @@ We currently use eight main resources for the literature, specifically poems, to
 
 ![Map-switch-ja](../assets/img/map_switch_ja.png)
 
-最後に、データベースアクセスのお持ちの方は、フロントページ以外のページからログインすることができます。ページのヘッダーの部分にメニューシンボルがありますので、それをクリックしますと、次のリンクが表示されます：
+最後に、データベースアクセスのお持ちの方は、フロントページ以外の全ページからログインすることができます。ページのヘッダーにはメニューシンボルがありますので、それをクリックしますと、次のリンクが表示されます：
 
 ![Menu-ja](../assets/img/menu_ja.png)
 
-メニューからログインページをアクセスできます。更に、いつでもメニューを通してUI言語を切替えることができます。
+このメニューから、ログインページをアクセスできます。更に、いつでもメニューを通してUI言語を切替えることができます。
 
 ## 場所を表示する<a name="displaying-spots-ja"></a>
 
@@ -210,8 +206,6 @@ We currently use eight main resources for the literature, specifically poems, to
 次のタブは、場所の地誌と歴史についての情報をまとめてます：
 
 ![Spot-detail-history-ja](../assets/img/spot_detail/spot_detail_history_ja.png)
-
-近々、「地誌」と「歴史」項目は、日本語版と英語版に区別されますので、ご注意下さい。
 
 三つ目の「和歌・漢詩・俳諧」タブは、[資料](#resources-ja)で現れる、選択した場所を表現する和歌等をテーブルで表示します：
 
