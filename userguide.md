@@ -10,7 +10,6 @@ subtitle: サイト閲覧凡例
 2. [Displaying spots](#displaying-spots-en)
 3. [Adding a new spot](#adding-a-spot-en)
   * [Selecting a spot on the map](#spot-selection-en)
-4. [Resources](#resources-en)
 
 # 目次
 
@@ -18,7 +17,6 @@ subtitle: サイト閲覧凡例
 2. [場所を表示する](#displaying-spots-ja)
 3. [場所を追加する](#adding-a-spot-ja)
   * [地図上で場所を選択する](#spot-selection-ja)
-4. [資料](#resources-ja)
 
 <br>
 
@@ -80,7 +78,7 @@ The next tab concerns a spot's topography and history as these are important det
 
 ![Spot-detail-history-en](../assets/img/spot_detail/spot_detail_history_en.png)
 
-The third tab, "Poetry", shows all poems from a selection of poetry collections (see [Resources](#resources-en)) that make reference to the particular spot:
+The third tab, "Poetry", shows all poems from a selection of poetry collections that make reference to the particular spot:
 
 ![Spot-detail-poems-en](../assets/img/spot_detail/spot_detail_poems_en.png)
 
@@ -131,19 +129,6 @@ The app will show you some suggestions and clicking on one automatically adds a 
 ![Add-spot-select-en](../assets/img/add_spot/add_spot_select_en.png)
 
 In both cases, if you are not satisfied with the placement of the marker or the associated place name, you can manually move the marker around on the map (automatically updating latitude and longitude) and manually edit the spot name information. 
-
-## Resources<a name="resources-en"></a>
-
-We currently use eight main resources for the literature, specifically poems, to select for the spots. The eight resources are:
-
-  * 古今和歌集 Kokin wakashū
-  * 後撰和歌集 Gosen wakashū
-  * 拾遺和歌集 Shūi wakashū
-  * 後拾遺和歌集 Goshūi wakashū
-  * 金葉和歌集 Kin'yō wakashū
-  * 詞花和歌集 Shika wakashū
-  * 千載和歌集 Senzai wakashū
-  * 新古今和歌集 Shinkokin wakashū
 
 <br>
 
@@ -207,7 +192,7 @@ We currently use eight main resources for the literature, specifically poems, to
 
 ![Spot-detail-history-ja](../assets/img/spot_detail/spot_detail_history_ja.png)
 
-三つ目の「和歌・漢詩・俳諧」タブは、[資料](#resources-ja)で現れる、選択した場所を表現する和歌等をテーブルで表示します：
+三つ目の「和歌・漢詩・俳諧」タブは、資料で現れる、選択した場所を表現する和歌等をテーブルで表示します：
 
 ![Spot-detail-poems-ja](../assets/img/spot_detail/spot_detail_poems_ja.png)
 
@@ -258,16 +243,3 @@ We currently use eight main resources for the literature, specifically poems, to
 ![Add-spot-select-ja](../assets/img/add_spot/add_spot_select_ja.png)
 
 両方の場合、マーカーの位置や自動的に追加された地名に不満があれば、手動でマーカーを動かしたり、地名を編集できます。
-
-## 資料<a name="resources-ja"></a>
-
-現時点では、DLMの作成に以下の八つの資料を利用してます：
-
-  * 古今和歌集
-  * 後撰和歌集
-  * 拾遺和歌集
-  * 後拾遺和歌集
-  * 金葉和歌集
-  * 詞花和歌集
-  * 千載和歌集
-  * 新古今和歌集
