@@ -54,12 +54,6 @@ In the table view, you can access the detailed spot page and also filter spots b
 
 ![Map-switch-en](../assets/img/map_switch_en.png)
 
-Lastly, if you are a user who has access to the database, you can log in after entering the main app. The header section includes a menu symbol that when clicked reveals the following links:
-
-![Menu-en](../assets/img/menu_en.png)
-
-From there, you can reach the login page. Note that you can also at any point in time switch languages via the menu.
-
 ## Displaying spots<a name="displaying-spots-en"></a>
 
 Once you access a spot's detail page (either via the map overlay or the spots table), you will see the first of four tabs:
@@ -167,12 +161,6 @@ In both cases, if you are not satisfied with the placement of the marker or the 
 テーブル表示からも、場所の詳細ページを開くことができますし、地名で場所を検索することもできます。地図表示に戻るには、左上の「地図表示」ボタンをクリックするので充分です：
 
 ![Map-switch-ja](../assets/img/map_switch_ja.png)
-
-最後に、データベースアクセスのお持ちの方は、フロントページ以外の全ページからログインすることができます。ページのヘッダーにはメニューシンボルがありますので、それをクリックしますと、次のリンクが表示されます：
-
-![Menu-ja](../assets/img/menu_ja.png)
-
-このメニューから、ログインページをアクセスできます。更に、いつでもメニューを通してUI言語を切替えることができます。
 
 ## 場所を表示する<a name="displaying-spots-ja"></a>
 
