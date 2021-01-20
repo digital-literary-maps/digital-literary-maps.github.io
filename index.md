@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DLM
-subtitle: A User's Guide - サイト閲覧凡例
+subtitle: A User's Guide - ユーザーガイド
 use-site-title: true
 cover-img: "/assets/img/KaiseiNifonYochiRoteiZenzu1846.jpg"
 ---
