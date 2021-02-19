@@ -1,7 +1,7 @@
 ---
 layout: page
 title: User Guide
-subtitle: サイト閲覧凡例
+subtitle: ユーザーガイド
 ---
 
 # Contents
