@@ -25,21 +25,21 @@ Leo Born
 
 ---
 
-本ページは、[日本のデジタル文学地図](https://literarymaps.nijl.ac.jp)（通称DLM）プロジェクトの、オープンな<sup id="a1">[1](#f1)</sup>閲覧凡例です。このプロジェクトは日本文学における歌枕・名所を地図上に表示し、その背景にある歴史的、文化的、ポエティックな意味を提供しています。バックエンドはMongoDBのデータベースで構築され、フロントエンドはJavaScriptのウェブアプリケーションで実現され、データベースコンテンツを閲覧、編集、可視化することができます。
+本ページは、[日本のデジタル文学地図](https://literarymaps.nijl.ac.jp)（通称DLM）プロジェクトの、オープンな<sup id="a1">[1](#f1)</sup>ユーザーガイドです。このプロジェクトは日本文学における歌枕・名所を地図上に表示し、その背景にある歴史的、文化的、ポエティックな意味を提供しています。バックエンドはMongoDBのデータベースで構築され、フロントエンドはJavaScriptのウェブアプリケーションで実現され、データベースコンテンツを閲覧、編集、可視化することができます。
 
-本凡例は、ウェブアプリケーション上でいつでもアクセスできます。ウェブアプリケーションのヘッダーには本のマークがあります：
+本ユーザーガイドは、ウェブアプリケーション上でいつでもアクセスできます。ウェブアプリケーションのヘッダーには本のマークがあります：
 
 <p class="text-center">
 <img width="200px" src="https://digital-literary-maps.github.io/assets/img/user-guide-btn.png">
 </p>
 
-マークをクリックすると、本凡例の特定なページ（ウェブアプリケーション内のURLによります）、又は本フロントページが表示されます。
+マークをクリックすると、本ユーザーガイドの特定なページ（ウェブアプリケーション内のURLによります）、又は本フロントページが表示されます。
 
-フロントページからは、右上の「USER GUIDE」にて凡例自体をアクセスできます。
+フロントページからは、右上の「USER GUIDE」にてユーザーガイド自体をアクセスできます。
 
 ハイデルベルク、ドイツ、令和二年十一月<br>
 ボルン礼於
 
 ---
 
-<b id="f1">1.</b> _open_ means that this user guide is hosted on [GitHub](https://github.com/digital-literary-maps/digital-literary-maps.github.io) and that, thus, the page development (revisions, corrections, additions etc.) can be transparently tracked. <br>「オープン」とは、本凡例が[GitHub](https://github.com/digital-literary-maps/digital-literary-maps.github.io)でホストされてるため、ページのコードがオープンソースということです。 [↩](#a1)
+<b id="f1">1.</b> _open_ means that this user guide is hosted on [GitHub](https://github.com/digital-literary-maps/digital-literary-maps.github.io) and that, thus, the page development (revisions, corrections, additions etc.) can be transparently tracked. <br>「オープン」とは、本ユーザーガイドが[GitHub](https://github.com/digital-literary-maps/digital-literary-maps.github.io)でホストされてるため、ページのコードがオープンソースということです。 [↩](#a1)
